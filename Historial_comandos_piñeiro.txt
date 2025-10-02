@@ -1,0 +1,393 @@
+whoami
+pwd
+ssh-keygen -t 
+ssh-keygen -t ed25519
+pwd
+ls-l
+ls -l
+ls -la
+cd .ssh
+ls -l
+cat
+cat id_ed25519.pub
+clear
+pwd
+q
+echo $HOME 
+cd
+mk dir 
+mkd dir cd
+mkdir clase 4
+ls -l
+cd clase 4
+mkdir clase4
+ls -l
+cd clase4
+echo lineal 1
+echo lineal1 > archivo1txt
+ls -l
+cat archivo.txt
+cat archivo1txt 
+cat > archivo2.txt
+cat > archivo.txt
+ls -l
+cat archivo1.txt>> archivo2.txt
+cat archiv.txt >> archivo2.txt
+-v
+cat *.txt
+cat
+cat -help
+cat-help
+cat –help
+pwd
+ssh
+ls -l
+cd clase4
+ls -l
+mkdir documentos
+cat documentos
+ls -l
+mkdir documentos
+ls -l
+cd documentos
+cd clase4
+cd
+cd clase4
+ls-l
+sudo apt install tree
+sudo snap install tree
+tree
+mkdir practica
+ls -l
+cd practica
+touch practical.txt
+ls -l
+cp practical.txt practical2.txt
+ls -l
+mv practical2.txt/home/vagrant/clase4
+ls -l
+mv practical2.txt ~/clase4
+ls -l
+cd
+ls -l
+clase4}
+cd clase4
+ls -l
+id
+exit
+grep -i vagrant/etc/shadow
+group
+cat/etc/group
+sudo su
+ls-l
+ls -l
+cat arch_root.txt 
+rm arch_root.txt 
+ls -l
+rm arch_root.txt 
+ls -l
+-m
+- m
+-m
+-s
+exit
+who
+[200~
+~
+clean
+useradd -m -s /bin/bash -c
+groupadd NewGroup
+[200~groupadd Alumnos~
+groupadd Alumnos
+useradd -m -s /bin/bash -c "Alumno pepe" -G Alumnos pepe
+sudo useradd -m -s /bin/bash -c "Alumno pepe" -G Alumnos pep
+SUDO groupadd Alumnos
+sudo groupadd Alumnos
+sudo groupadd NewGroup
+useradd -m -s /bin/bash -c "Alumno pepe" -G Alumnos pepe
+passwd
+pepe
+sudo useradd -m -s /bin/bash -c "Alumno pepe" -G Alumnos pepe
+who
+useradd -m -s /bin/bash -c "Alumno pepe" -G Alumnos pepe
+/etc/passwd
+sudo /etc/passwd
+grep pepe /etc/passwd~
+grep -i alumno /etc/group
+id
+passwd pepe
+pepe
+sudo passwd pepe
+su pepe
+exit
+ssh-keygen -t ed25519
+ls - l
+ls- l
+ls -l
+pwd
+ls -l /home
+su - pepe
+sudo user mode -aG sudo pepe
+sudo usermod mode -aG sudo pepe
+sudo usermod -aG sudo pepe
+pepe
+su pepe
+pwd
+chgrp vagrant:vagrant
+chgrp vagrant:vagrant /home/pepe/textopepe.txt
+chown vagrant:vagrant /home/pepe/textopepe.txt
+sudo  chown vagrant:vagrant /home/pepe/textopepe.txt
+sudo ls -l /home/pepe
+su - pepe
+ls -l
+mkdir clase5
+ls -l
+cd clase 5
+cd clase5
+ls -l
+touch practica1.txt
+ls -l
+touch practica2.wxt
+touch practica2.txt
+ls -l
+chmod 600 practica1.txt
+ls -l
+chmod 444 practica2.txt
+ls -l
+echo "linea1" >> practica2.txt
+chmod 644 practica2.txt
+ls -l
+echo "linea1" >> practica2.txt
+ls -l
+cd
+ls -l
+chmod -R 777 clase5/
+ls -l
+cd clase5
+ls -l
+chmod 666 *.txtx
+chmod 666 *.txt
+ls -l
+cd
+ls -l
+cd clase5
+chmod 666 *.wxt
+ls -l
+cd
+chmod -R 775 clase5/
+ls -l
+ls -l clase5/
+PWd
+pwd
+mkclase6
+mkdir clase6
+cd clase6
+ls -l
+ls -la
+echo ls -l >script1
+ls -l
+cat script1
+bash script1
+echo tree
+echo tree > script1
+cat script1
+echo ls -l >script1
+cat scipt1
+cat script1
+echo tree >> script1
+cat script1 
+echo pwd >> script1
+cat script1
+echo whoami >> script1
+cat script1
+bash script1
+vim script2.sh
+cat script2.sh
+./script2.sh
+chmod   764 script2.sh
+ls -l
+./script2.sh
+ls -l
+tree
+vim script3.sh
+ls -l
+chmod   764 script3.sh
+ls -l
+ls .l
+./script3.sh
+cd
+“ssh-keygen -t ed25519”
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+exit
+cd
+mkdir repogit
+cd repogit
+git clone git@github.com:lobito208/TP_ayso.git
+cd t
+cd TP_ayso/.git/
+cd
+cd repogit/
+cd TP_ayso/
+ls -l
+cat/etc/os-realease
+cd 
+cd repogit/TP_ayso/.git/
+pwd
+cat /etc/os-release
+/etc/os-release
+man grep
+MAN GREP
+man grep
+git clone git@github.com:lobito208/TP_ayso.git
+ls -l
+cd
+cd repogit/
+cd TP_ayso/ 
+ls -l
+cd
+cd repogit/
+ls -l
+cd T
+cd TP_ayso/
+ls -l
+grpe -i  HOME_URL
+grep HOME_URL /etc/os-release 
+grep home_url /etc/os-release
+man grep -i
+grep
+grep -i Home_url /etc/os-release >datos_url.txt
+ls -l
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ls
+git add
+git add .
+git config --global user.email "lucasmatu2014@gmail.com"
+git config --global user.name "lobito208"
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt" 
+git status
+git push
+git pull
+git push
+git branch
+"git branch --unset-upstream"
+git fetch origin master:tmp
+git status
+git pull
+git config pull.rebase true
+git push
+git pull
+git merge master
+git fetch --all
+git status
+git commint
+git commit
+git push
+cpuinfo
+grap
+grep
+tail-n1
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+/proc
+[200~yntax error near unexpected token `newline'~ clean
+
+
+
+clean
+clear
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+grep "model name" /proc/cpuinfo | head -n1 
+v}agrant@VMPruebas:~/repogit/TP_ayso$ grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+-bash: syntax error near unexpected token `newline'
+datos_usuarios.txt: command not found
+vagrant@VMPruebas:~/repogit/TP_ayso$ grep "model name" /proc/cpuinfo | head -n1
+model name      : AMD Ryzen 5 760
+clear
+
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+ls -l
+ECHO
+cd datos_url.tx
+cat datos
+cat datos_u
+clear
+ls -a
+ls -l
+cat datos_url.txt 
+cat datos_usuario.txt 
+grep "model name" /proc/cpuinfo | head -n1 >>
+grep "model name" /proc/cpuinfo | head -n1 
+model name      : AMD Ryzen 5 7600X 6-Core Processor >> datos_usuario.txt
+cat datos_usuario.txt 
+clear
+grep -m 1 "model name" /proc/cpuinfo >> datos_usuarios.txt
+ls -l
+cat datos_usuario.txt 
+cat datos_usuario.txt
+grep "model name "
+/proc/cpuino
+/proc/cpuinfo
+sudo /proc/cpuinfo
+grep /proc/cpuinfo
+/proc/cpuifo
+ls -l
+cat datos_usuario.txt 
+cd 
+cat repogit/TP_ayso/
+cd repogit/TP_ayso/
+head -n1
+grep "model name" /proc/cpuinfo | head -n1 >>
+grep "model name" /proc/cpuinfo | head -n1 
+"model name" >> datos_usuario.txt 
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+ls -l
+echo datos_usuarios.txt 
+ls -l
+clear
+grep -m 1 "model name" /proc/cpuinfo >> datos_usuarios.txt
+ls -l
+cat datos_usuarios.txt 
+
+alumno <lucas>
+division: <114>tunrno:<mañana>
+eof
+EOF
+
+git add README.md datos_usuarios.txt 
+git commit -m "add añadiendo readme y datos del usuario 
+git push
+
+exit
+home
+cat repogit/TP_ayso/
+cd repogit/TP_ayso/
+mkdir -p ~/materia1/uni{1..3} ~/materia2/uni{1..3}
+ls -l
+tree ~/materia1 ~/materia2
+script_dir.sh
+sudo script_dir.sh
+vim script_dir.sh
+bash script_dir.sh 
+vim script1
+bash script1 
+vim script2
+bash script2
+cat script2 
+echo 'mkdir -p ~/materia1/uni{1..3} ~/materia2/uni{1..3}' > script_dir.sh
+tree ~/materia1 ~/materia2
+ls -l
+git add script2 
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
+$HOME/.bash_history
+sudo $HOME/.bash_history
+cp ~/.bash_history ./Historial_comandos_Apellido.txt
+history -a
